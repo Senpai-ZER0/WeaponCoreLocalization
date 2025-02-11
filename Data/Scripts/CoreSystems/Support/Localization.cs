@@ -250,7 +250,7 @@ namespace CoreSystems.Support
                         { "TerminalWeaponROFTitle", "Изменить скорострельность" },
                         { "TerminalWeaponROFTooltip", "Изменить скорострельность" },
                         { "TerminalOverloadTitle", "Усиление" },
-                        { "TerminalOverloadTooltip", "Включение усиления увеличит урон энергетического(!) оружия в 2 раза, но потребление энергии и перегрев возрастут в 4 раза, перегрев будет наносить 2% урона cfvjve орудию" },
+                        { "TerminalOverloadTooltip", "Включение усиления увеличит урон энергетического(!) оружия в 2 раза, но потребление энергии и перегрев возрастут в 4 раза, перегрев будет наносить 2% урона самому орудию" },
                         { "TerminalDetonationTitle", "Время детонации" },
                         { "TerminalDetonationTooltip", "Время детонации" },
                         { "TerminalGravityTitle", "Коррекция гравитации" },
